@@ -2,7 +2,7 @@
 
 ## Project Description
 
-For my final project, my plan is to essentially recreate a Pokemon game. I plan on having the trainer or player start in a random region, fight a couple battles and collect pokemon, and then eventually have a boss battle with a gym trainer. 
+For my final project, my plan is to essentially recreate a 2D Pokemon game. I plan on having the trainer or player start in a random region, fight a couple battles and collect pokemon, and then eventually have a boss battle with a gym trainer. 
 
 
 ## Needs To Have
