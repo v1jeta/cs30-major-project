@@ -1,8 +1,10 @@
 html, body {
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  image-rendering: pixelated;
 }
-
-canvas {
-  display: block;
+canvas{
+  width: 100%;
+  background: blue; 
 }
